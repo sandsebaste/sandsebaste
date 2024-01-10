@@ -198,3 +198,4 @@
 0695. ✨ feat: create admin dashboard
 0203. 🚀 perf: lazy-load components
 0644. 🎨 style: apply consistent indentation
+0551. 📚 docs: write FAQ section
