@@ -201,3 +201,4 @@
 0551. 📚 docs: write FAQ section
 0223. 🔧 refactor: remove redundant code blocks
 0196. ♻️ chore: bump dependencies
+0203. 🚀 perf: lazy-load components
