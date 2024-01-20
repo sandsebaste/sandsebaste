@@ -205,3 +205,4 @@
 0054. ♻️ chore: update .gitignore
 0582. ✨ feat: add export to CSV option
 0040. 🔧 refactor: clean up auth middleware
+0779. 🔧 refactor: organize models into subfolders
