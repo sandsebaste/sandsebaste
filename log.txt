@@ -5,3 +5,4 @@
 0784. ♻️ chore: clean up unused files
 0540. ♻️ chore: add GitHub actions badge
 0908. ♻️ chore: bump dependencies
+0581. ✅ test: add integration test for /submit endpoint
