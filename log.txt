@@ -19,3 +19,4 @@
 0738. 🐛 fix: prevent crash on empty input
 0669. ✨ feat: enable dark mode toggle
 0839. 🎨 style: apply consistent indentation
+0794. ♻️ chore: clean up unused files
