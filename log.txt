@@ -228,3 +228,4 @@
 0880. 🐛 fix: fix broken CSS in mobile view
 0099. 🚀 perf: reduce image load time
 0490. ✨ feat: create admin dashboard
+0016. 🎨 style: apply consistent indentation
