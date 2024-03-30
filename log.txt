@@ -24,3 +24,4 @@
 0082. 🔧 refactor: refactor quiz grading logic
 0386. 🚀 perf: optimize database query for quiz results
 0617. ✨ feat: support email verification
+0377. ✨ feat: add user authentication
