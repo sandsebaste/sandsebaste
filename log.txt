@@ -26,3 +26,4 @@
 0617. ✨ feat: support email verification
 0377. ✨ feat: add user authentication
 0512. 🚀 perf: reduce image load time
+0580. ♻️ chore: bump dependencies
