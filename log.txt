@@ -27,3 +27,4 @@
 0377. ✨ feat: add user authentication
 0512. 🚀 perf: reduce image load time
 0580. ♻️ chore: bump dependencies
+0542. 🔧 refactor: organize models into subfolders
