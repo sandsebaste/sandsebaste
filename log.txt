@@ -29,3 +29,4 @@
 0580. ♻️ chore: bump dependencies
 0542. 🔧 refactor: organize models into subfolders
 0262. 🎨 style: remove trailing whitespace
+0689. 🎨 style: reformat files with black
