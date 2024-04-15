@@ -30,3 +30,4 @@
 0542. 🔧 refactor: organize models into subfolders
 0262. 🎨 style: remove trailing whitespace
 0689. 🎨 style: reformat files with black
+0485. 📚 docs: update README with setup steps
