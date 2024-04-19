@@ -31,3 +31,4 @@
 0262. 🎨 style: remove trailing whitespace
 0689. 🎨 style: reformat files with black
 0485. 📚 docs: update README with setup steps
+0466. 🚀 perf: optimize database query for quiz results
