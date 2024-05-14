@@ -248,3 +248,4 @@
 0430. 🐛 fix: fix null pointer exception on login
 0158. 📚 docs: clarify environment setup
 0526. ✨ feat: add user authentication
+0245. 🐛 fix: resolve issue with date parsing
