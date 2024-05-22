@@ -252,3 +252,4 @@
 0161. ✨ feat: create admin dashboard
 0151. ✅ test: add unit test for quiz service
 0345. 📚 docs: document token refresh logic
+0708. ✅ test: add integration test for /submit endpoint
