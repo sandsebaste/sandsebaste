@@ -253,3 +253,4 @@
 0151. ✅ test: add unit test for quiz service
 0345. 📚 docs: document token refresh logic
 0708. ✅ test: add integration test for /submit endpoint
+0529. 📚 docs: write FAQ section
