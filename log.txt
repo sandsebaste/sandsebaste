@@ -258,3 +258,4 @@
 0284. ✨ feat: implement quiz timer feature
 0604. 📚 docs: add API usage examples
 0820. 📚 docs: add API usage examples
+0690. 🚀 perf: lazy-load components
