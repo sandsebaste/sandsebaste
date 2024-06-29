@@ -57,3 +57,4 @@
 0987. ✨ feat: create admin dashboard
 0425. 🔧 refactor: refactor quiz grading logic
 0178. ✨ feat: support email verification
+0350. 🚀 perf: cache repeated calculations
