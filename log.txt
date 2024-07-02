@@ -58,3 +58,4 @@
 0425. 🔧 refactor: refactor quiz grading logic
 0178. ✨ feat: support email verification
 0350. 🚀 perf: cache repeated calculations
+0341. 🚀 perf: lazy-load components
