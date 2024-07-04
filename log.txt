@@ -59,3 +59,4 @@
 0178. ✨ feat: support email verification
 0350. 🚀 perf: cache repeated calculations
 0341. 🚀 perf: lazy-load components
+0482. ✨ feat: add export to CSV option
