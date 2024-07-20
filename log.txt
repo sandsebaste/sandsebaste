@@ -265,3 +265,4 @@
 0506. 🐛 fix: handle 500 error in quiz API
 0818. 🔧 refactor: remove redundant code blocks
 0248. 🐛 fix: handle 500 error in quiz API
+0299. 🐛 fix: resolve issue with date parsing
