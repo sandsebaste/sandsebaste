@@ -269,3 +269,4 @@
 0115. 🚀 perf: reduce image load time
 0917. ✅ test: add integration test for /submit endpoint
 0518. ✨ feat: support email verification
+0901. ✨ feat: add user authentication
