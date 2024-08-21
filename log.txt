@@ -271,3 +271,4 @@
 0518. ✨ feat: support email verification
 0901. ✨ feat: add user authentication
 0838. 🎨 style: standardize quote style
+0185. 📚 docs: write FAQ section
