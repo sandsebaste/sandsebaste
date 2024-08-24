@@ -79,3 +79,4 @@
 0022. 📚 docs: document token refresh logic
 0317. ✅ test: test user registration edge cases
 0723. 🔧 refactor: remove redundant code blocks
+0056. ♻️ chore: rename env.example
