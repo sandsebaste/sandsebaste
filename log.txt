@@ -277,3 +277,4 @@
 0038. 🎨 style: rename variables for clarity
 0548. 📚 docs: write FAQ section
 0939. 📚 docs: update README with setup steps
+0801. ✨ feat: enable dark mode toggle
