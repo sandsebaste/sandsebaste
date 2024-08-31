@@ -276,3 +276,4 @@
 0765. ♻️ chore: clean up unused files
 0038. 🎨 style: rename variables for clarity
 0548. 📚 docs: write FAQ section
+0939. 📚 docs: update README with setup steps
