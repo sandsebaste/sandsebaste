@@ -81,3 +81,4 @@
 0723. 🔧 refactor: remove redundant code blocks
 0056. ♻️ chore: rename env.example
 0010. ✨ feat: add user authentication
+0721. 🚀 perf: optimize database query for quiz results
