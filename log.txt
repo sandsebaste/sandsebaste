@@ -85,3 +85,4 @@
 0672. 🐛 fix: fix broken CSS in mobile view
 0853. 🔧 refactor: refactor quiz grading logic
 0100. ♻️ chore: update .gitignore
+0693. 📚 docs: add API usage examples
