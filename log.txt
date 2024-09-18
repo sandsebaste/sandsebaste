@@ -284,3 +284,4 @@
 0066. 🔧 refactor: clean up auth middleware
 0307. ✨ feat: support email verification
 0062. ♻️ chore: update .gitignore
+0994. 🚀 perf: reduce image load time
