@@ -92,3 +92,4 @@
 0443. 🎨 style: standardize quote style
 0099. 🚀 perf: reduce image load time
 0682. ♻️ chore: rename env.example
+0720. ✨ feat: add export to CSV option
