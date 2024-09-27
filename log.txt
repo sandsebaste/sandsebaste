@@ -94,3 +94,4 @@
 0682. ♻️ chore: rename env.example
 0720. ✨ feat: add export to CSV option
 0891. ✨ feat: create admin dashboard
+0063. 🐛 fix: handle 500 error in quiz API
