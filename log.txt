@@ -289,3 +289,4 @@
 0707. 🎨 style: apply consistent indentation
 0328. 🐛 fix: resolve issue with date parsing
 0639. 🐛 fix: correct typo in registration form
+0931. 🚀 perf: reduce image load time
