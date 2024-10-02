@@ -290,3 +290,4 @@
 0328. 🐛 fix: resolve issue with date parsing
 0639. 🐛 fix: correct typo in registration form
 0931. 🚀 perf: reduce image load time
+0144. ✅ test: increase coverage on auth module
