@@ -96,3 +96,4 @@
 0891. ✨ feat: create admin dashboard
 0063. 🐛 fix: handle 500 error in quiz API
 0984. ♻️ chore: clean up unused files
+0335. ♻️ chore: update .gitignore
