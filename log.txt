@@ -98,3 +98,4 @@
 0984. ♻️ chore: clean up unused files
 0335. ♻️ chore: update .gitignore
 0614. 🚀 perf: reduce image load time
+0326. 🚀 perf: cache repeated calculations
