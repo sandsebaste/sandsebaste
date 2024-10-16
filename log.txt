@@ -293,3 +293,4 @@
 0144. ✅ test: increase coverage on auth module
 0630. 🚀 perf: lazy-load components
 0781. 🚀 perf: reduce image load time
+0164. 📚 docs: document token refresh logic
