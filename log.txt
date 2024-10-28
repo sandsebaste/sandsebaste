@@ -109,3 +109,4 @@
 0656. 🎨 style: apply consistent indentation
 0409. 🚀 perf: lazy-load components
 0154. 🐛 fix: prevent crash on empty input
+0323. 📚 docs: clarify environment setup
