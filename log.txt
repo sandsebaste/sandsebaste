@@ -300,3 +300,4 @@
 0805. ♻️ chore: add GitHub actions badge
 0268. 🐛 fix: prevent crash on empty input
 0692. ✅ test: add integration test for /submit endpoint
+0616. 🚀 perf: lazy-load components
