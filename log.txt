@@ -303,3 +303,4 @@
 0616. 🚀 perf: lazy-load components
 0258. 🐛 fix: prevent crash on empty input
 0240. 🔧 refactor: remove redundant code blocks
+0371. ✅ test: add integration test for /submit endpoint
