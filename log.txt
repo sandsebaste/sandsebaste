@@ -121,3 +121,4 @@
 0536. ✨ feat: add user authentication
 0310. 🔧 refactor: refactor quiz grading logic
 0299. 🐛 fix: resolve issue with date parsing
+0278. 🔧 refactor: clean up auth middleware
