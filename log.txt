@@ -313,3 +313,4 @@
 0476. 🚀 perf: reduce image load time
 0806. 📚 docs: improve code comments in utils
 0968. 🎨 style: standardize quote style
+0442. 🎨 style: standardize quote style
