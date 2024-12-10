@@ -315,3 +315,4 @@
 0968. 🎨 style: standardize quote style
 0442. 🎨 style: standardize quote style
 0643. 🎨 style: apply consistent indentation
+0368. 🚀 perf: lazy-load components
