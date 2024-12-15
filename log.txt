@@ -317,3 +317,4 @@
 0643. 🎨 style: apply consistent indentation
 0368. 🚀 perf: lazy-load components
 0351. ✨ feat: add export to CSV option
+0522. 🐛 fix: handle 500 error in quiz API
