@@ -124,3 +124,4 @@
 0278. 🔧 refactor: clean up auth middleware
 0003. ✅ test: increase coverage on auth module
 0196. ♻️ chore: bump dependencies
+0486. ✨ feat: add export to CSV option
