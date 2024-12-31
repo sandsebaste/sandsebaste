@@ -324,3 +324,4 @@
 0301. 🎨 style: apply consistent indentation
 0118. 🚀 perf: reduce image load time
 0183. 🔧 refactor: split large controller into smaller functions
+0957. 🐛 fix: fix null pointer exception on login
