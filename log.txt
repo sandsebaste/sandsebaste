@@ -338,3 +338,4 @@
 0352. ✨ feat: add export to CSV option
 0493. ✨ feat: add user authentication
 0770. ♻️ chore: rename env.example
+0537. 🔧 refactor: remove redundant code blocks
