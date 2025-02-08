@@ -344,3 +344,4 @@
 0937. 🐛 fix: handle 500 error in quiz API
 0237. 🎨 style: standardize quote style
 0339. 📚 docs: update README with setup steps
+0844. 📚 docs: update README with setup steps
