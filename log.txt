@@ -345,3 +345,4 @@
 0237. 🎨 style: standardize quote style
 0339. 📚 docs: update README with setup steps
 0844. 📚 docs: update README with setup steps
+0567. 📚 docs: add API usage examples
