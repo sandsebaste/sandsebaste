@@ -145,3 +145,4 @@
 0854. ♻️ chore: rename env.example
 0598. 🔧 refactor: remove redundant code blocks
 0914. ✅ test: test user registration edge cases
+0144. ✅ test: increase coverage on auth module
