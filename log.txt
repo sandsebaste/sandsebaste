@@ -154,3 +154,4 @@
 0531. 🐛 fix: prevent crash on empty input
 0490. ✨ feat: create admin dashboard
 0618. ✨ feat: support email verification
+0471. ✨ feat: support email verification
