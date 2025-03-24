@@ -155,3 +155,4 @@
 0490. ✨ feat: create admin dashboard
 0618. ✨ feat: support email verification
 0471. ✨ feat: support email verification
+0072. 🚀 perf: optimize database query for quiz results
