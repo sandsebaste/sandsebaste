@@ -364,3 +364,4 @@
 0364. 🐛 fix: resolve issue with date parsing
 0222. 🐛 fix: handle 500 error in quiz API
 0241. 📚 docs: add API usage examples
+0726. ✨ feat: enable dark mode toggle
