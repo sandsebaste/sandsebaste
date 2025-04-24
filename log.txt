@@ -368,3 +368,4 @@
 0294. 🐛 fix: prevent crash on empty input
 0047. 🎨 style: rename variables for clarity
 0882. 🚀 perf: optimize database query for quiz results
+0519. 📚 docs: document token refresh logic
