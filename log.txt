@@ -166,3 +166,4 @@
 0215. 🎨 style: reformat files with black
 0586. 🎨 style: remove trailing whitespace
 0566. 📚 docs: write FAQ section
+0218. 🔧 refactor: clean up auth middleware
