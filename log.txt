@@ -370,3 +370,4 @@
 0882. 🚀 perf: optimize database query for quiz results
 0519. 📚 docs: document token refresh logic
 0542. 🔧 refactor: organize models into subfolders
+0017. ✅ test: mock database connection in test suite
