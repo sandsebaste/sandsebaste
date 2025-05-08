@@ -173,3 +173,4 @@
 0162. ♻️ chore: add GitHub actions badge
 0698. 🐛 fix: handle 500 error in quiz API
 0224. 🐛 fix: fix broken CSS in mobile view
+0585. 🚀 perf: lazy-load components
