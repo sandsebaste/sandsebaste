@@ -376,3 +376,4 @@
 0790. 📚 docs: write FAQ section
 0922. 📚 docs: write FAQ section
 0369. 🎨 style: standardize quote style
+0759. 🔧 refactor: organize models into subfolders
