@@ -176,3 +176,4 @@
 0585. 🚀 perf: lazy-load components
 0718. 🐛 fix: resolve issue with date parsing
 0029. 🚀 perf: lazy-load components
+0468. 📚 docs: update README with setup steps
