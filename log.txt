@@ -175,3 +175,4 @@
 0224. 🐛 fix: fix broken CSS in mobile view
 0585. 🚀 perf: lazy-load components
 0718. 🐛 fix: resolve issue with date parsing
+0029. 🚀 perf: lazy-load components
