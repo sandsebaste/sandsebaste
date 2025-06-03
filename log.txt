@@ -182,3 +182,4 @@
 0742. 📚 docs: clarify environment setup
 0534. 🔧 refactor: split large controller into smaller functions
 0081. 🐛 fix: fix null pointer exception on login
+0565. ♻️ chore: add GitHub actions badge
