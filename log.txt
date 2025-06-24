@@ -388,3 +388,4 @@
 0693. 📚 docs: add API usage examples
 0199. ✨ feat: create admin dashboard
 0289. 🐛 fix: resolve issue with date parsing
+0813. 🔧 refactor: organize models into subfolders
