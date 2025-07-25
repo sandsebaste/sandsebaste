@@ -394,3 +394,4 @@
 0192. ✨ feat: enable dark mode toggle
 0176. 🔧 refactor: remove redundant code blocks
 0960. ✅ test: increase coverage on auth module
+0163. ✨ feat: implement quiz timer feature
