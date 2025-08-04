@@ -397,3 +397,4 @@
 0163. ✨ feat: implement quiz timer feature
 0044. ✅ test: add unit test for quiz service
 0814. 🔧 refactor: remove redundant code blocks
+0167. 🚀 perf: reduce image load time
